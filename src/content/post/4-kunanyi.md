@@ -1,7 +1,7 @@
 ---
 title: 'Day 4: kunanyi (Mt Wellington)'
 date: 2023-03-31T16:00:00+11:00
-description: We completed the Three Falls circuit at the Mt Field National Park.
+description: We arrived at kunanyi just when the rain cleared but it was very windy and cold.
 trip: Tasmania 2023
 place: Australia
 timezone: Australia/Tasmania

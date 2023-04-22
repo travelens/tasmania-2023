@@ -1,7 +1,7 @@
 ---
 title: 'Day 5: Urban Art Walk'
 date: 2023-04-01T16:00:00+11:00
-description: Discovering street art in the middle of Hobart
+description: Discovering street art in the middle of Hobart.
 trip: Tasmania 2023
 place: Australia
 timezone: Australia/Tasmania

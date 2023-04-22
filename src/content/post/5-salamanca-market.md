@@ -1,7 +1,7 @@
 ---
 title: 'Day 5: Salamanca Market'
 date: 2023-04-01T09:00:00+11:00
-description: Visiting the famous Saturday market in Hobart
+description: Visiting the famous Saturday market in Hobart.
 trip: Tasmania 2023
 place: Australia
 timezone: Australia/Tasmania
@@ -13,6 +13,8 @@ tags:
   - Salamanca Market
   - Saturday
 ---
+We decided to spend the weekend exploring Hobart, as we are tired after three consecutive days of day tours.
+
 [Salamanca Market](https://www.salamancamarket.com.au) is Tasmania's most visited tourism attraction and runs each Saturday from 8.30 am to 3 pm, rain, hail or shine.
 
 The market extends the full length of Hobart's historic Salamanca Place, from the silos end to the top of Davey Street. There is a huge selection of locally made products and one can meet the makers, the artisans, the designers and producers.
