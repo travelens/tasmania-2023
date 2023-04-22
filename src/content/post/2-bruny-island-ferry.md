@@ -19,3 +19,5 @@ We booked a whole day Bruny Island tour with [Tassie Tours](https://tassietours.
 Anni, the driver, picked us up in a van at 7:45am and after picking up a number of other passengers, we were off to Bruny Island!
 
 We boarded the ferry at Kettering and soon were on the way to the island.
+
+Fortunately, the day turned out to be bright and sunny, in start contrast to the dull and rainy day yesterday.
