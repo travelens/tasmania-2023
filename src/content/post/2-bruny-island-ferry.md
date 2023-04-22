@@ -1,6 +1,6 @@
 ---
 title: 'Day 2: Bruny Island (Ferry)'
-date: 2023-03-29T09:00:00+11:00
+date: 2023-03-29T08:00:00+11:00
 description: Beginning our Bruny Island day tour with Tassie Tours
 trip: Tasmania 2023
 place: Australia
