@@ -6,8 +6,8 @@ trip: Tasmania 2023
 place: Australia
 timezone: Australia/Tasmania
 location: kunanyi Mt Wellington
-image: ../../assets/gallery/4-bonorong/Tasmanian devil (1).jpeg
-gallery: 4-bonorong
+image: ../../assets/gallery/4-kunanyi/kunanyi Mt Wellington (8).jpeg
+gallery: 4-kunanyi
 map: [-42.89601,147.23731,18]
 tags:
   - Tours Tasmania
