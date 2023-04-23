@@ -14,9 +14,9 @@ tags:
   - Domain
   - Hobart
 ---
-The Royal Tasmanian Botanical Gardens is Australia’s cool climate garden, with a number of unique collections including Australia’s only Subantarctic Plant House. With a total of 14 hectares to explore, visitors can take time to relax and explore or tailor a walk based on personal interest. Established in the early years of the colony of Hobart, the rich history of the gardens is evident throughout the site, and it is Australia’s second oldest Botanic Gardens, established just two years after Sydney.
+The [Royal Tasmanian Botanical Gardens](https://gardens.rtbg.tas.gov.au/) is Australia’s cool climate garden, with a number of unique collections including Australia’s only Subantarctic Plant House. With a total of 14 hectares to explore, visitors can take time to relax and explore or tailor a walk based on personal interest. Established in the early years of the colony of Hobart, the rich history of the gardens is evident throughout the site, and it is Australia’s second oldest Botanic Gardens, established just two years after Sydney.
 
-We didn't have much time, so we focused on the top ten locations as described by the guide brochure.
+We didn't have much time, so we focused on the top ten locations as described by the guide brochure. The following information is taken from their website.
 
 ## The Entrance
 

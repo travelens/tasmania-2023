@@ -1,14 +1,14 @@
 ---
 title: 'Day 6: Hobart Waterfront'
-date: 2023-04-02T16:00:00+11:00
+date: 2023-04-02T17:00:00+11:00
 description: Australia's second oldest museum and featuring the collections of Australia's oldest scientific society.
 trip: Tasmania 2023
 place: Australia
 timezone: Australia/Tasmania
-location: Tasmanian Museum and Art Gallery
+location: Constitution Dock
 image: ../../assets/gallery/6-hobart-waterfront/Constitution Dock.jpeg
 gallery: 6-hobart-waterfront
-map: [-42.88169,147.32770,17]
+map: [-42.88262,147.33314,17]
 tags:
   - Constitution Dock
   - Mures
