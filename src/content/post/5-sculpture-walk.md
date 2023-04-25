@@ -14,7 +14,7 @@ tags:
   - sculpture
   - walk
 ---
-The Battery Point Sculpture Trail is an easy stroll linking nine large numerical sculptures that provide a fascinating introduction to Hobart’s history. Each sculpture along this international-award winning trail represents a weight, measure, time, quantity, date or distance linked to a story about that place. Look for a sculpture afloat in the river, one cut from a hedge and another that glows all night. The trail winds past some of the city’s oldest surviving residences and through locations where many of Tasmania’s first industries were established. Following around Battery Point and along the shore of the river, there are views of both the port and the lower Derwent Estuary.
+The Battery Point Sculpture Trail is an easy stroll linking nine large numerical sculptures that provide a fascinating introduction to Hobart’s history. Each sculpture along this international-award winning trail represents a weight, measure, time, quantity, date or distance linked to a story about that place. There is a sculpture afloat in the river, one cut from a hedge and another that glows all night. The trail winds past some of the city’s oldest surviving residences and through locations where many of Tasmania’s first industries were established. Following around Battery Point and along the shore of the river, there are views of both the port and the lower Derwent Estuary.
 
 The trail was developed by Futago with artists Judith Abell and Chris Viney.
 
@@ -32,7 +32,7 @@ Sculpture 313 represents where new vessels were launched through the 1800s. We t
 
 1 250 features a giant corroded steel plate with small rivets making up four digits. The plate, viewable from high above along Napoleon Street, lies in an excavated ditch, once the home of a winch capable of hauling 1 250 tonne vessels from the water.
 
-The penultimate sculpture lies at the bottom of Napoleon Street Park overlooking Battery Point’s ship chandlers and the river Derwent. Although visible by day, 24 is a creature of the night featuring a solar illuminated red number 24 beneath a very thick, dark layer of resin that creates an eerie image similar to a sunken ship.
+The penultimate sculpture lies at the bottom of Napoleon Street Park overlooking Battery Point’s ship chandlers and the river Derwent. Although visible by day, 24 is a creature of the night featuring a solar illuminated red number 24 beneath a very thick, dark layer of resin that creates an eerie image similar to a sunken ship. This one was very difficult for us to find, we kept wandering around looking for it.
 
 Errol Flynn Reserve marks the end of the trail with the large white Hollywoodesque 1909 sculpture a tribute to our most famous expat born in the year 1909.
 

@@ -1,7 +1,7 @@
 ---
 title: 'Day 6: Cenotaph'
 date: 2023-04-02T12:00:00+11:00
-description: The Cenotaph in Hobart is a great place to get 306 degree views.
+description: The Cenotaph in Hobart is a great place to get 360 degree views.
 trip: Tasmania 2023
 place: Australia
 timezone: Australia/Tasmania

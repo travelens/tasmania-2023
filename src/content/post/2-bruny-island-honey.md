@@ -18,4 +18,4 @@ The Honey Pot and Bruny Island Honey are the houses of honey venues of the Wrigh
 
 They extract and package all thei own honey themselves at their facilities in Judbury, Tasmania.
 
-Everyone ordered Leatherwood Honey ice cream, which they are famous for. Tasmanian Leatherwood has a strong, unmistakable flavoursourced from a limited number of hive sites positioned in the South West of Tasmania. The Leatherwood tree itself prefers to be shrouded by a canopy in damper weather.
+Everyone ordered Leatherwood Honey ice cream, which they are famous for. Tasmanian Leatherwood has a strong, unmistakable flavour sourced from a limited number of hive sites positioned in the South West of Tasmania. The Leatherwood tree itself prefers to be shrouded by a canopy in damper weather.

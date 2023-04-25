@@ -1,5 +1,5 @@
 ---
-title: 'Day 2: Bruny Island Cheesse'
+title: 'Day 2: Bruny Island Cheese'
 date: 2023-03-29T15:00:00+11:00
 description: Last stop of the day for gourmet cheese and craft beer.
 trip: Tasmania 2023

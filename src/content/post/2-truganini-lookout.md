@@ -1,7 +1,7 @@
 ---
 title: 'Day 2: Bruny Island (Truganini Lookout)'
 date: 2023-03-29T09:00:00+11:00
-description: The most spectacular 360 degreee lookout on Bruny Island.
+description: The most spectacular 360 degree lookout on Bruny Island.
 trip: Tasmania 2023
 place: Australia
 timezone: Australia/Tasmania

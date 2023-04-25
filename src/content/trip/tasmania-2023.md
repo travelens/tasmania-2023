@@ -8,11 +8,22 @@ end: 2023-04-03T18:00:00+11:00
 description: 'We returned back to Tasmania after 5 years on 27 March-3 April 2023 to discover what has changed since the COVID lockdown.'
 image: ../../assets/trip.jpeg
 tags:
-  - Oceania
+  - Hobart
+  - Bruny Island
+  - Tasman Peninsula
+  - Mt Field
+  - Bonorong
+  - kunanyi
+  - Mt Wellington
+  - Cenotaph
+  - Domain
+  - Botanic Gardens
+  - Salamanca
+  - art
 ---
 We tried to book a trip to Tasmania in 2021 to take advantage of the Government's COVID stimulus program to offer travelers half price domestic flights. Unfortunately, we had to cancel them because of the COVID lockdown later that year.
 
-We finally rebooked the flights in 2023 to visit Tasmania in early autumn. Unlike previous trips to Tasmania, we decided to base our week long stay in Hobart. Instead of renting a car to travel around Tasmania, we opted to take day trips instead by coach. Post COVID, renting cars have become very expensive (we were quoted A$200 a day!), so we decided to explore Hobart and surroundings exclusively on this trip.
+We finally rebooked the flights in 2023 to visit Tasmania in early autumn. Unlike previous trips to Tasmania, we decided to base our week long stay in Hobart. Instead of renting a car to travel around Tasmania, we opted to take day trips by coach. Post COVID, renting cars have become very expensive (we were quoted A$200 a day!), so we decided to explore Hobart and surroundings exclusively on this trip.
 
 | Day | Date | Itinerary |
 | ---: | :---- | :--------- |

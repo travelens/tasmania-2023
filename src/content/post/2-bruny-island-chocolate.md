@@ -14,6 +14,6 @@ tags:
   - Tassie Tours
   - chocolate
 ---
-On the way back along Adventure Bay Road, we briefly stopped the the chocolate company. Apparently they specialise in handmade cream fudges, chocolate products, preserves and gifts.
+On the way back along Adventure Bay Road, we briefly stopped at the chocolate company. Apparently they specialise in handmade cream fudges, chocolate products, preserves and gifts.
 
 I like the Peter Rabbit packaging, plus we discovered some mushrooms in a field that looked like they came from a fairy tale!

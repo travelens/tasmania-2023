@@ -17,4 +17,4 @@ tags:
   - walk
   - wallaby
 ---
-After the Mavista walk, we stopped by briefly at the Adventure Bay Store to pick up provisions. There is a sculpture of a globe here. I also sawa pretty Anglican church called St. Pauls.
+After the Mavista walk, we stopped by briefly at the Adventure Bay Store to pick up provisions. There is a sculpture of a globe here. I also saw a pretty Anglican church called St. Pauls.
