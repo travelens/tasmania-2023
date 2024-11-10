@@ -8,11 +8,12 @@ timezone: Australia/Tasmania
 location: New Norfolk
 image: ../../assets/gallery/4-on-the-road/Derwent river.jpeg
 gallery: 4-on-the-road
-map: [-42.7822,147.0559,11]
+map: [-42.7822, 147.0559, 11]
 tags:
   - Tours Tasmania
   - Mt Field
 ---
+
 Today we venture further afield with [Tours Tasmania](https://www.tourstas.com.au/tours/mt-field-mt-wellington-devils/) on their "Mt field, Wildlife & Mt Wellington" day tour.
 
 This tour encompasses Wilderness, Waterfalls & Wildlife! We get to walk among the giants on the Tall Trees track, see spectacular Russell Falls, visit the local Tassie Devils at feeding time and finish the day with expansive views of Hobart & beyond from kunanyi/Mt. Wellington.

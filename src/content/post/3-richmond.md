@@ -8,13 +8,14 @@ timezone: Australia/Tasmania
 location: Richmond
 image: ../../assets/gallery/3-richmond/Richmond Bridge (3).jpeg
 gallery: 3-richmond
-map: [-42.73383,147.43998,17]
+map: [-42.73383, 147.43998, 17]
 tags:
   - Richmond
   - Under Down Under Tours
   - historic
   - bridge
 ---
+
 Today we are embarking on another day tour, this time to the [Tasman Peninsula](https://tasmanpeninsula.com.au/) operated by [Under Down Under](https://underdownunder.com.au/).
 
 This scenic and active day out explores the towering sea cliffs and impressive geological features of the Tasman Peninsula. It took us on several short walks to Waterfall Bay, Tasman Arch, and the Devil’s Kitchen to see the magnificent sea stacks, arches, and sea caves of the coastline’s ancient rock formations. From Remarkable Cave we’ll walk to the beautiful moon-shaped Crescent Bay, with its enormous coastal sand dunes and sweeping views to offshore islands and the surging Southern Ocean. All in all, the tour promises a wild and wonderful day of nature, wildlife, and awesome scenery, weather permitting.

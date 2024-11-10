@@ -8,7 +8,7 @@ timezone: Australia/Tasmania
 location: Constitution Dock
 image: ../../assets/gallery/7-hobart-waterfront/Constitution Dock (2).jpeg
 gallery: 7-hobart-waterfront
-map: [-42.88262,147.33314,17]
+map: [-42.88262, 147.33314, 17]
 tags:
   - Franklin Wharf
   - Brooke St Pier
@@ -18,6 +18,7 @@ tags:
   - Drunken Admiral
   - Hobart
 ---
+
 ## Princes Wharf
 
 [PRINCES WHARF No1](https://www.princeswharf1.com.au/) is located Hobart’s waterfront in the heart of the historic Salamanca, just 5 minutes walk from the Hobart CBD. It is often used for events. Nearby is the [Spirit of Hobart](https://www.hobarthistoriccruises.com.au/), a ship used for tour cruises.
@@ -50,34 +51,34 @@ The sculpture by Stephen Walker commemorates the Tasmanian Antarctic explorer Lo
 
 ### Front Inscription
 
->Tasmanian Louis Bernachhi (1878 - 1942) was the first Australian to winter in Antarctica.
+> Tasmanian Louis Bernachhi (1878 - 1942) was the first Australian to winter in Antarctica.
 >
->Louis grew up on Maria Island, attended Hobart`s Hutchins School, and from his early years was a strong advocate for Australia`s involvement in Antarctica.
+> Louis grew up on Maria Island, attended Hobart`s Hutchins School, and from his early years was a strong advocate for Australia`s involvement in Antarctica.
 >
->A scientist, photographer and writer, Louis left Hobart with the Borchgrevink Antarctic Expedition on the 17th December 1898.  Their vessel, "The Southern Cross" departed from the point where this tribute now stands. 
+> A scientist, photographer and writer, Louis left Hobart with the Borchgrevink Antarctic Expedition on the 17th December 1898. Their vessel, "The Southern Cross" departed from the point where this tribute now stands.
 >
->Louis later joined Scotts 1901 - 1904 `Discovery` Expedition as Chief Scientist, taking his favourite Husky "Joe" who had Been with him on Borchgrevink`s earlier expedition.
+> Louis later joined Scotts 1901 - 1904 `Discovery` Expedition as Chief Scientist, taking his favourite Husky "Joe" who had Been with him on Borchgrevink`s earlier expedition.
 
 ### "Heading South"
 
->Presented to the people of Hobart by James and Margaret Bleasel to commemorate the historic links between the
-Port of Hobart, the Southern Ocean and Antarctica
+> Presented to the people of Hobart by James and Margaret Bleasel to commemorate the historic links between the
+> Port of Hobart, the Southern Ocean and Antarctica
 >
->"Seals and Penguins: unveiled by the Rt. Hon., the Lord Mayor of Hobart Alderman Dr. J. W. Freeman
-7th January, 1998
+> "Seals and Penguins: unveiled by the Rt. Hon., the Lord Mayor of Hobart Alderman Dr. J. W. Freeman
+> 7th January, 1998
 >
->"The Bernacchi Tribute" unveiled by Mr. Jim Bacon. M.H.A., Premier of Tasmania
-10th September, 2002
+> "The Bernacchi Tribute" unveiled by Mr. Jim Bacon. M.H.A., Premier of Tasmania
+> 10th September, 2002
 >
->Sculptor, Stephen Walker A.M.
+> Sculptor, Stephen Walker A.M.
 
 ## 150 Years of the Foundation of Hobart
 
-The monument commemorates 150 years of European settlement in Hobart which was founded in 1804 by Lieutenant Collins. 
+The monument commemorates 150 years of European settlement in Hobart which was founded in 1804 by Lieutenant Collins.
 
-A plaque was added in 2004 on the 200th anniversary and lists the names of the first settlers. It also acknowledges the Mouheneenner People as original custodians of the land. 
+A plaque was added in 2004 on the 200th anniversary and lists the names of the first settlers. It also acknowledges the Mouheneenner People as original custodians of the land.
 
-The first European settlement in the Hobart area began in 1803 as a penal colony and a defensive outpost at Risdon Cove, officially named Hobart on the eastern shores of the Derwent River. This was undertaken under British concerns over the presence of French explorers in the South Pacific.  It began as a collection of tents and huts, with a population of 178 convicts, 25 marines, 15 women, 21 children, 13 free settlers and 10 civil officers.
+The first European settlement in the Hobart area began in 1803 as a penal colony and a defensive outpost at Risdon Cove, officially named Hobart on the eastern shores of the Derwent River. This was undertaken under British concerns over the presence of French explorers in the South Pacific. It began as a collection of tents and huts, with a population of 178 convicts, 25 marines, 15 women, 21 children, 13 free settlers and 10 civil officers.
 
 In 1804 the settlement was moved was moved to a better location which was named "Hobart's Town" at the present site of Hobart at Sullivans Cove, making it the second oldest city in Australia.
 

@@ -8,12 +8,13 @@ timezone: Australia/Tasmania
 location: Bruny Island ferry
 image: ../../assets/gallery/2-bruny-island-ferry/Bruny Island Ferry (11).jpeg
 gallery: 2-bruny-island-ferry
-map: [-43.1274,147.2555,15]
+map: [-43.1274, 147.2555, 15]
 tags:
   - Bruny Island
   - Tassie Tours
   - ferry
 ---
+
 We booked a whole day Bruny Island tour with [Tassie Tours](https://tassietours.com/bruny-island-tours.php). The itinerary includes a mixture of walking, picturesque locations and produce outlets.
 
 Anni, the driver, picked us up in a van at 7:45am and after picking up a number of other passengers, we were off to Bruny Island!

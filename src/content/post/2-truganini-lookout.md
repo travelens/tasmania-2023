@@ -8,13 +8,14 @@ timezone: Australia/Tasmania
 location: Truganini Lookout
 image: ../../assets/gallery/2-truganini-lookout/Truganini Lookout.jpeg
 gallery: 2-truganini-lookout
-map: [-43.2696,147.3490,14]
+map: [-43.2696, 147.3490, 14]
 tags:
   - Bruny Island
   - Tassie Tours
   - Truganini
   - Neck
 ---
+
 Our first stop after disembarking the ferry on Bruny Island is Truganini Lookout on the Bruny Island Neck Game Reserve.
 
 Truganini (also known as Lallah Rookh; c. 1812 – 8 May 1876) was an Aboriginal Tasmanian woman. She was one of the last native speakers of the Tasmanian languages and one of the last individuals solely of Aboriginal Tasmanian descent. She grew up in the region around Bruny Island.

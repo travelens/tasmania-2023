@@ -8,7 +8,7 @@ timezone: Australia/Tasmania
 location: Hotel Bruny
 image: ../../assets/gallery/2-lunch/Sunset Bay (4).jpeg
 gallery: 2-lunch
-map: [-43.32185,147.24212,17]
+map: [-43.32185, 147.24212, 17]
 tags:
   - Bruny Island
   - Tassie Tours
@@ -16,6 +16,7 @@ tags:
   - Sunset Bay
   - Hotel Bruny
 ---
+
 After the lighthouse, we were all hungry, so we stopped at the [Hotel Bruny](https://www.hotelbruny.com.au/) located at Sunset Bay near Alonnah. Along the way, we passed through the beautiful Daniels Bay near Lunawanna.
 
 Incidentally, the two small towns Alonnah and Lunawanna are named after the Aboriginal name for Bruny Island: Lunawanna-alonnah.

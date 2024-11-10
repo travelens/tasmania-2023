@@ -8,11 +8,12 @@ timezone: Australia/Tasmania
 location: Salamanca Market
 image: ../../assets/gallery/5-salamanca-market/Salamanca Markets (2).jpeg
 gallery: 5-salamanca-market
-map: [-42.88660,147.33231,18]
+map: [-42.88660, 147.33231, 18]
 tags:
   - Salamanca Market
   - Saturday
 ---
+
 We decided to spend the weekend exploring Hobart, as we are tired after three consecutive days of day tours.
 
 [Salamanca Market](https://www.salamancamarket.com.au) is Tasmania's most visited tourism attraction and runs each Saturday from 8.30 am to 3 pm, rain, hail or shine.

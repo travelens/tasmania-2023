@@ -8,7 +8,7 @@ timezone: Australia/Tasmania
 location: Hobart
 image: ../../assets/gallery/1-hobart/Eddys.jpeg
 gallery: 1-hobart
-map: [-42.8822,147.3320,16]
+map: [-42.8822, 147.3320, 16]
 tags:
   - Hobart
   - McDonalds
@@ -18,6 +18,7 @@ tags:
   - Thai Veggie Hut
   - Kopitiam Singapore Cafe
 ---
+
 The weather forecast was a few days of rain, clearing up just before we were scheduled to depart. We were hoping the forecast was wrong, but unfortunately it was right for today at least. It pretty much rained the whole day. Which is just as well, since, this was a free day in our itinerary for us to explore the city.
 
 We had breakfast at McDonalds in the [Cat and Fiddle Arcade](https://www.catandfiddlearcade.com/), which is over 100 years old. We then walked around Elizabeth St north of the mall, and discovered it is located right next to the University of Tasmania city campus. The street is full of cheap restaurants, and has shops catering for the interests of the uni crowd. I saw a music centre, a record shop and a cycling shop.

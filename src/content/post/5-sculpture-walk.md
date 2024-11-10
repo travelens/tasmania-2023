@@ -8,12 +8,13 @@ timezone: Australia/Tasmania
 location: Batttery Point
 image: ../../assets/gallery/5-sculpture-walk/1833.jpeg
 gallery: 5-sculpture-walk
-map: [-42.8901,147.3322,16]
+map: [-42.8901, 147.3322, 16]
 tags:
   - Battery Point
   - sculpture
   - walk
 ---
+
 The Battery Point Sculpture Trail is an easy stroll linking nine large numerical sculptures that provide a fascinating introduction to Hobart’s history. Each sculpture along this international-award winning trail represents a weight, measure, time, quantity, date or distance linked to a story about that place. There is a sculpture afloat in the river, one cut from a hedge and another that glows all night. The trail winds past some of the city’s oldest surviving residences and through locations where many of Tasmania’s first industries were established. Following around Battery Point and along the shore of the river, there are views of both the port and the lower Derwent Estuary.
 
 The trail was developed by Futago with artists Judith Abell and Chris Viney.

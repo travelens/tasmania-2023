@@ -8,12 +8,13 @@ timezone: Australia/Tasmania
 location: Cenotaph
 image: ../../assets/gallery/6-cenotaph/Hobart Cenotaph (3).jpeg
 gallery: 6-cenotaph
-map: [-42.87701,147.33642,17]
+map: [-42.87701, 147.33642, 17]
 tags:
   - Domain
   - Cenotaph
   - Hobart
 ---
+
 The Hobart Cenotaph is the main commemorative military monument for Tasmania and is the centre of Anzac Day commemoration services. Hobart's shrine of remembrance, this culturally important area sits close to the city, with commanding views of the river and the mountain.
 
 The Cenotaph is the centre of Anzac Day commemoration services at dawn and mid-morning, and is the destination of the marching procession. On Anzac Day at the break of dawn, a lone bugler always plays the Last Post.

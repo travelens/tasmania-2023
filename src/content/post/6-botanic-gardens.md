@@ -8,12 +8,13 @@ timezone: Australia/Tasmania
 location: Botanical Gardens
 image: ../../assets/gallery/6-botanic-gardens/Anniversary_arch.jpeg
 gallery: 6-botanic-gardens
-map: [-42.8654,147.3308,16]
+map: [-42.8654, 147.3308, 16]
 tags:
   - Botanic Gardens
   - Domain
   - Hobart
 ---
+
 The [Royal Tasmanian Botanical Gardens](https://gardens.rtbg.tas.gov.au/) is Australia’s cool climate garden, with a number of unique collections including Australia’s only Subantarctic Plant House. With a total of 14 hectares to explore, visitors can take time to relax and explore or tailor a walk based on personal interest. Established in the early years of the colony of Hobart, the rich history of the gardens is evident throughout the site, and it is Australia’s second oldest Botanic Gardens, established just two years after Sydney.
 
 We didn't have much time, so we focused on the top ten locations as described by the guide brochure. The following information is taken from their website.
@@ -102,7 +103,7 @@ The monument to his tenure is seen in the 4 metre / 12-feet high convict-built b
 
 ![Tasmanian Community Food Garden](../../assets/gallery/6-botanic-gardens/Food_Garden_21.jpeg)
 
-This area has a long history of cultivation as a food garden and orchard from the original Hangan’s Farm in 1806 to extensions of Government House vegetable beds until the 1950s.  In more recent times it was the Economic Garden and Pete’s Vegie Patch. All up an unbroken 200 year history of productive plantings.
+This area has a long history of cultivation as a food garden and orchard from the original Hangan’s Farm in 1806 to extensions of Government House vegetable beds until the 1950s. In more recent times it was the Economic Garden and Pete’s Vegie Patch. All up an unbroken 200 year history of productive plantings.
 Community beds.
 
 The new Tasmanian Community Food Garden was completed in 2013 on the site of the original ‘Pete’s Patch’. This Garden is a working organic production and display garden, with a multitude of veggie production practices displayed including an example of the original six-bed crop rotation system made famous in the original patch.

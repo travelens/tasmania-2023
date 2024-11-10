@@ -8,7 +8,7 @@ timezone: Australia/Tasmania
 location: Tasman Arch
 image: ../../assets/gallery/3-tasman-arch/Tasman Arch (1).jpeg
 gallery: 3-tasman-arch
-map: [-43.0421,147.9509,15]
+map: [-43.0421, 147.9509, 15]
 tags:
   - Tasman Peninsula
   - Eaglehawk Neck
@@ -18,6 +18,7 @@ tags:
   - Devil's Kitchen
   - Under Down Under Tours
 ---
+
 Our next stop after Richmond is Eaglehawk Neck - the gateway to the Tasman National Park - home to a wide range of land and marine animals, fascinating rock formations and some of the highest and most spectacular cliffs in Australia.
 
 We started at the Pirates Bay Lookout, but unfortunately by now the weather has turned into rain. Normally we would be able to do a walk here, but it was really windy and wet, so we just walked to Cliff's Lookout, took a few photos, and went back to the car. We skipped the Tessellated Pavement and the Blowhole.

@@ -1,5 +1,5 @@
 ---
-title: "Day 7: Salamanca Place"
+title: 'Day 7: Salamanca Place'
 date: 2023-04-03T10:00:00+11:00
 description: Salamanca Place looks very different when the market isn't on.
 trip: Tasmania 2023
@@ -8,12 +8,13 @@ timezone: Australia/Tasmania
 location: Salamanca Place
 image: ../../assets/gallery/7-salamanca-place/Salamanca Place.jpeg
 gallery: 7-salamanca-place
-map: [-42.88668,147.33344,18]
+map: [-42.88668, 147.33344, 18]
 tags:
   - St David
   - Hobart
 ---
-[Salamanca](https://www.salamanca.com.au/) is located along the edges of the Derwent river just a short 5 min walk from the Hobart CBD. Salamanca is home to some of Tasmania’s most recognisable sandstone buildings and heritage architecture. This area is also the Heart of Hobart’s nightlife being home to a majority of the best Restaurants, Bars and nightclubs. Salamanca is also deeply integrated into Tasmania’s tourism sector with Salamanca’s Weekly Market being held along Salamanca Place every Saturday. Along with Brooke Street Pier home to the Mona Ferry’s  and the Peppermint Bay Cruise as well as an indoor shopping market which showcases some of Tasmania’s most unique businesses.
+
+[Salamanca](https://www.salamanca.com.au/) is located along the edges of the Derwent river just a short 5 min walk from the Hobart CBD. Salamanca is home to some of Tasmania’s most recognisable sandstone buildings and heritage architecture. This area is also the Heart of Hobart’s nightlife being home to a majority of the best Restaurants, Bars and nightclubs. Salamanca is also deeply integrated into Tasmania’s tourism sector with Salamanca’s Weekly Market being held along Salamanca Place every Saturday. Along with Brooke Street Pier home to the Mona Ferry’s and the Peppermint Bay Cruise as well as an indoor shopping market which showcases some of Tasmania’s most unique businesses.
 
 ## Salamanca Place
 

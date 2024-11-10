@@ -8,12 +8,13 @@ timezone: Australia/Tasmania
 location: Crescent Bay
 image: ../../assets/gallery/3-crescent-bay/Crescent Bay walk (32).jpeg
 gallery: 3-crescent-bay
-map: [-43.1975,147.8718,14]
+map: [-43.1975, 147.8718, 14]
 tags:
   - Tasman Peninsula
   - Crescent Bay
   - Under Down Under Tours
 ---
+
 The highlight of the day is the walk to Crescent Bay. It starts from the car park, then headed east along the coastline to Maingon Blowhole (1 hr 30mins return), Mount Brown (4 hr return) and Crescent Bay​ (4 hr return). ​
 
 Crescent Bay is a sparkling bowl of wild sea cradled by vast sand dunes. The walk traverses a gentle coastal heath. Mt Brown offers 360 degree views including Tasman Island and Cape Pillar before dropping down into this secluded, magical bay.

@@ -8,13 +8,14 @@ timezone: Australia/Tasmania
 location: Constitution Dock
 image: ../../assets/gallery/6-hobart-waterfront/Constitution Dock.jpeg
 gallery: 6-hobart-waterfront
-map: [-42.88262,147.33314,17]
+map: [-42.88262, 147.33314, 17]
 tags:
   - Constitution Dock
   - Mures
   - Mawson Hut
   - Hobart
 ---
+
 We spent the evening walking along Hobart's waterfront. We covered Franklin Wharf, Consitution Dock, Victoria Dock and the replica of Mawson's Hut.
 
 Constitution Dock is home to a portion of Hobart’s fishing fleet and not only used by fishing boats, but by personal yachts and a variety of other vessels. This area in the port of Hobart is famous for being the finishing line for the annual Sydney to Hobart Yacht Race, which begins on Boxing Day (the day after Christmas) and usually wraps up to a cheering crowds on New Year’s Eve.

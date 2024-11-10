@@ -8,7 +8,7 @@ timezone: Australia/Tasmania
 location: Mt Field
 image: ../../assets/gallery/4-mt-field/Visitor centre.jpeg
 gallery: 4-mt-field
-map: [-42.6640,146.6052,12]
+map: [-42.6640, 146.6052, 12]
 tags:
   - Tours Tasmania
   - Mt Field
@@ -18,11 +18,12 @@ tags:
   - Tall Trees
   - Lady Barron Falls
 ---
-Mt. Field offers a variety of walks in one of Tasmania’s oldest National Parks.  Most famous for Russell Falls & the Tall Trees track we explored the great short walks within this diverse Park which is just a short 1.5 hour drive from Hobart.
 
-The Three Falls Circuit and Tall Trees Walk form a loop of the lower rainforest section of Mount Field National Park.  The full circuit walk of 6kms, over reasonably easy terrain covers the parks highlights of Russell Falls, Horseshoe Falls, Lady Barron Falls & the Tall Trees Track. We chose to complete the whole circuit.
+Mt. Field offers a variety of walks in one of Tasmania’s oldest National Parks. Most famous for Russell Falls & the Tall Trees track we explored the great short walks within this diverse Park which is just a short 1.5 hour drive from Hobart.
 
-We began with the walk to Russell Falls which is easily Tasmania’s most recognisable waterfall with its 3-tiered drop. It is an easy and enjoyable walk along a beautiful forest track among mixed forest and temperate rainforest species.  This is Tassie’s most photographed waterfall, and we soak up the awesome view before continuing our walk.
+The Three Falls Circuit and Tall Trees Walk form a loop of the lower rainforest section of Mount Field National Park. The full circuit walk of 6kms, over reasonably easy terrain covers the parks highlights of Russell Falls, Horseshoe Falls, Lady Barron Falls & the Tall Trees Track. We chose to complete the whole circuit.
+
+We began with the walk to Russell Falls which is easily Tasmania’s most recognisable waterfall with its 3-tiered drop. It is an easy and enjoyable walk along a beautiful forest track among mixed forest and temperate rainforest species. This is Tassie’s most photographed waterfall, and we soak up the awesome view before continuing our walk.
 
 Just beyond Russell Falls we climb the stairs to Horseshoe Falls, a majestic waterfall snuggled in the forest, which some regard as even more impressive than Russell Falls! We continue along the Three Falls Circuit and enter the section known as the Tall Trees Track. High above us stand the giant Swamp Gums around 80 metres tall, the world's tallest flowering plant​. It started raining at this point and I forgot to bring my hat or raincoat. Fortunately, a fellow traveller (from Canada) graciously lent me his hat, otherwise I would have been soaked.
 

@@ -8,9 +8,10 @@ timezone: Australia/Tasmania
 location: Hobart
 image: ../../assets/gallery/1-hobart/Thai Veggie Hut (1).jpeg
 gallery: 7-hobart-city
-map: [-42.8822,147.3320,16]
+map: [-42.8822, 147.3320, 16]
 tags:
   - lunch
   - Hobart
 ---
+
 And that's it - the end of our trip. We revisited the Thai Veggiel Hut for lunch, then took a few last photos of this beautiful city before we headed back to the hotel to clean up, pack, and then head to the airport via the shuttle bus.

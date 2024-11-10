@@ -8,7 +8,7 @@ timezone: Australia/Tasmania
 location: Best Western Hobart
 image: ../../assets/gallery/0-journey/Best Western (7).jpeg
 gallery: 0-journey
-map: [-42.88354,147.32193,18]
+map: [-42.88354, 147.32193, 18]
 tags:
   - Amah
   - dinner
@@ -17,6 +17,7 @@ tags:
   - shuttle
   - hotel
 ---
+
 This is our first flight since the COVID-19 pandemic of 2020-2021, and we were a bit nervous as we were wondering what had changed. We have heard stories of delays and cancellations and lost baggage.
 
 We had an early dinner at [Amah by Hojiak](https://www.hojiak.com.au/chatswood/) in Chatswood, before boarding a train to the airport. On the way, we discovered our flight has been delayed by approximately one hour. We spent time near the food court which was surprisingly comfortable.

@@ -8,18 +8,19 @@ timezone: Australia/Tasmania
 location: Bruny Island Cheese
 image: ../../assets/gallery/2-bruny-island-cheese/Bruny Island Cheese (13).jpeg
 gallery: 2-bruny-island-cheese
-map: [-43.20446,147.38573,18]
+map: [-43.20446, 147.38573, 18]
 tags:
   - Bruny Island
   - Tassie Tours
   - cheese
   - beer
 ---
+
 Founded by Nick Haddow in 2003, Bruny Island Cheese Co. was started after Nick spent 10 years working with specialist cheese makers in many different countries around the world.
 
 The types of cheese here include:
 
-- ODO (One Day Old) -  a simple curd cheese that is simply drained overnight, lightly salted and then when it is only a day old is marinated in olive oil flavoured with garlic, chilli, black pepper and chives.
+- ODO (One Day Old) - a simple curd cheese that is simply drained overnight, lightly salted and then when it is only a day old is marinated in olive oil flavoured with garlic, chilli, black pepper and chives.
 - OTTO - a fresh cheese, wrapped in slices of local prosciutto, that you bake in the oven until the cheese goes all gooey and the prosciutto goes all crispy.
 - SAINT - a complex, richly flavoured soft cheese.
 - 1792 - a pungent washed rind is aged on a slip of Huon pine, giving it a strong smoky character.

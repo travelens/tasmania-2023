@@ -8,7 +8,7 @@ timezone: Australia/Tasmania
 location: Queen's Domain
 image: ../../assets/gallery/6-domain/Government House (1).jpeg
 gallery: 6-domain
-map: [-42.8672,147.3271,15]
+map: [-42.8672, 147.3271, 15]
 tags:
   - Domain
   - University Rose Garden
@@ -18,6 +18,7 @@ tags:
   - Railway Roundabout
   - Hobart
 ---
+
 After breakfast, we walked to the east towards the Queen's Domain - the site for a range of sporting venues and grounds. The origin of the name comes from the land formerly owned by the Crown (Government Domain) and the Government House is located here.
 
 However, early colonists treated the land as public land and often called it the People’s Paddock. It was the place to put abattoirs, to quarry building materials, to agist animals, to grow food, to build and berth boats and to store munitions. Finally, in 1901, the Governor gives the Domain (except [Government House](https://www.govhouse.tas.gov.au/)) to the people of Tasmania.
