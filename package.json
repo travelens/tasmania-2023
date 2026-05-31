@@ -3,7 +3,7 @@
   "author": "Chris Tham (chris@christham.net)",
   "description": "We returned back to Tasmania after 5 years on 27 March-3 April 2023 to discover what has changed since the COVID lockdown.",
   "license": "MIT",
-  "version": "2.3.0",
+  "version": "3.0.0",
   "type": "module",
   "scripts": {
     "dev": "astro dev",
